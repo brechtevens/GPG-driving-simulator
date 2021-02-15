@@ -35,7 +35,7 @@ The project was built upon the original project code from the [driving-interacti
 ### How to use code
 An experiment can be performed by executing
 ```console
-~$ python3.exe run world_name "arg1" "args2" ...
+~$ python3.exe run world_name "arg1" "arg2" ...
 ```
 where world_name corresponds to any of the worlds defined in world.py, e.g. "one_dimensional_GPG".
 
