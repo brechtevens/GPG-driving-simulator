@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+ipython = "*"
+
+[packages]
+matplotlib = "*"
+pyglet = "*"
+customopengen = {editable = true, path = "./../customopengen-library"}
+
+[requires]
+python_version = "3.8"

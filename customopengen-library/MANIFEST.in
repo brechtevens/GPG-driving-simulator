@@ -1,0 +1,4 @@
+include custom-opengen/templates/*
+include custom-opengen/templates/**/*
+include custom-opengen/icasadi/*
+include custom-opengen/icasadi/**/*
